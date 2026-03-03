@@ -11,7 +11,7 @@ Tools & Techniques
 - KPI Development  
 - Interactive Slicers & Filters  
 
-📊 Dataset Description
+Dataset Description
 The dataset includes:
 - Order details (Order ID, Order Date, Shipping Mode)
 - Customer information (City, Country, Region, Segment)
